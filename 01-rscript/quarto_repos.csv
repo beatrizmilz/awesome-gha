@@ -1,10 +1,10 @@
 name,url,description,stars,forks,open_issues
-quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,805,64,228
-quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,57,6,11
+quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,809,65,230
 quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,57,96,4
+quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,57,6,11
 quarto-vscode,https://github.com/quarto-dev/quarto-vscode,Quarto extension for VS Code,48,4,14
 quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,33,10,12
-quarto-emacs,https://github.com/quarto-dev/quarto-emacs,An emacs mode for quarto: https://quarto.org,25,4,1
+quarto-emacs,https://github.com/quarto-dev/quarto-emacs,An emacs mode for quarto: https://quarto.org,26,4,1
 quarto-vim,https://github.com/quarto-dev/quarto-vim,Rmarkdown support for vim,22,10,9
 quarto-gallery,https://github.com/quarto-dev/quarto-gallery,NA,10,8,1
 quarto-shortcodes,https://github.com/quarto-dev/quarto-shortcodes,NA,7,1,1
@@ -13,6 +13,7 @@ netlify-plugin-quarto,https://github.com/quarto-dev/netlify-plugin-quarto,NA,3,0
 quarto-sublime,https://github.com/quarto-dev/quarto-sublime,NA,3,0,0
 quarto-python,https://github.com/quarto-dev/quarto-python,Python interface to quarto-cli,3,0,0
 quarto-docusaurus,https://github.com/quarto-dev/quarto-docusaurus,NA,2,0,1
+quarto-choco-bundle,https://github.com/quarto-dev/quarto-choco-bundle,Chocolatey package for Quarto,1,0,0
 example-project-quarto-netlify-plugin,https://github.com/quarto-dev/example-project-quarto-netlify-plugin,A minimal Quarto project using Quarto's Netlify plugin,1,0,0
 quarto-pub-subdomain-site,https://github.com/quarto-dev/quarto-pub-subdomain-site,The [subdomain].quarto.pub website,0,0,0
 external-asg017-unofficial-observablehq-compiler,https://github.com/quarto-dev/external-asg017-unofficial-observablehq-compiler,A fork of @asg017's unofficial compiler for Observable notebook syntax,0,0,0
