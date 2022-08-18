@@ -1,15 +1,15 @@
 name,url,description,stars,forks,open_issues
-quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,1073,79,312
-quarto-vscode,https://github.com/quarto-dev/quarto-vscode,Quarto extension for VS Code,79,7,26
-quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,78,138,12
+quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,1081,79,318
+quarto-vscode,https://github.com/quarto-dev/quarto-vscode,Quarto extension for VS Code,79,7,27
+quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,78,140,12
 quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,74,8,28
 quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,45,13,15
 quarto-emacs,https://github.com/quarto-dev/quarto-emacs,An emacs mode for quarto: https://quarto.org,38,5,2
-quarto-vim,https://github.com/quarto-dev/quarto-vim,Rmarkdown support for vim,34,9,7
+quarto-vim,https://github.com/quarto-dev/quarto-vim,Rmarkdown support for vim,35,9,7
 quarto-gallery,https://github.com/quarto-dev/quarto-gallery,NA,14,10,0
-quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,10,0,2
+quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,10,0,3
 quarto-julia,https://github.com/quarto-dev/quarto-julia,Julia interface to quarto-cli,9,0,5
-quarto-shortcodes,https://github.com/quarto-dev/quarto-shortcodes,NA,8,1,1
+quarto-shortcodes,https://github.com/quarto-dev/quarto-shortcodes,NA,8,1,2
 quarto-python,https://github.com/quarto-dev/quarto-python,Python interface to quarto-cli,7,0,0
 quarto-sublime,https://github.com/quarto-dev/quarto-sublime,NA,5,0,0
 quarto-docusaurus,https://github.com/quarto-dev/quarto-docusaurus,NA,3,0,1
@@ -17,7 +17,7 @@ netlify-plugin-quarto,https://github.com/quarto-dev/netlify-plugin-quarto,NA,3,0
 example-project-quarto-netlify-plugin,https://github.com/quarto-dev/example-project-quarto-netlify-plugin,A minimal Quarto project using Quarto's Netlify plugin,2,0,0
 quarto-ojs-runtime,https://github.com/quarto-dev/quarto-ojs-runtime,A runtime for quarto's support of ObservableHQ's reactive Javascript,2,0,0
 quarto-choco-bundle,https://github.com/quarto-dev/quarto-choco-bundle,Chocolatey package for Quarto,1,0,0
-Quarto-Pub,https://github.com/quarto-dev/Quarto-Pub,Quarto Pub,0,0,1
+Quarto-Pub,https://github.com/quarto-dev/Quarto-Pub,Quarto Pub,0,0,0
 quarto-pub-subdomain-site,https://github.com/quarto-dev/quarto-pub-subdomain-site,The [subdomain].quarto.pub website,0,0,0
 external-asg017-unofficial-observablehq-compiler,https://github.com/quarto-dev/external-asg017-unofficial-observablehq-compiler,A fork of @asg017's unofficial compiler for Observable notebook syntax,0,0,0
 external-kpdecker-jsdiff,https://github.com/quarto-dev/external-kpdecker-jsdiff,A javascript text differencing implementation.,0,0,0
