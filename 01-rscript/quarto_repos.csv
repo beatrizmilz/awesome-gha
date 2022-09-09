@@ -1,12 +1,12 @@
 name,url,description,stars,forks,open_issues
-quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,1178,90,413
-quarto-vscode,https://github.com/quarto-dev/quarto-vscode,Quarto extension for VS Code,90,7,26
+quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,1181,91,424
+quarto-vscode,https://github.com/quarto-dev/quarto-vscode,Quarto extension for VS Code,89,7,26
 quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,87,166,24
 quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,81,9,33
-quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,48,13,17
+quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,49,13,16
 quarto-emacs,https://github.com/quarto-dev/quarto-emacs,An emacs mode for quarto: https://quarto.org,45,5,2
-quarto-vim,https://github.com/quarto-dev/quarto-vim,Rmarkdown support for vim,37,10,7
-quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,14,0,2
+quarto-vim,https://github.com/quarto-dev/quarto-vim,Rmarkdown support for vim,38,10,7
+quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,15,0,2
 quarto-gallery,https://github.com/quarto-dev/quarto-gallery,NA,14,11,0
 quarto-julia,https://github.com/quarto-dev/quarto-julia,Julia interface to quarto-cli,10,0,5
 quarto-shortcodes,https://github.com/quarto-dev/quarto-shortcodes,NA,8,1,2
@@ -20,7 +20,7 @@ quarto-ojs-runtime,https://github.com/quarto-dev/quarto-ojs-runtime,A runtime fo
 gridtables,https://github.com/quarto-dev/gridtables,Haskell parser for reStructuredText-style grid tables.,1,0,4
 quarto-choco-bundle,https://github.com/quarto-dev/quarto-choco-bundle,Chocolatey package for Quarto,1,0,0
 quarto-repo-template,https://github.com/quarto-dev/quarto-repo-template,"Repository template with readme styling, issue templates, etc",0,0,0
-Quarto-Pub,https://github.com/quarto-dev/Quarto-Pub,Quarto Pub,0,0,0
+Quarto-Pub,https://github.com/quarto-dev/Quarto-Pub,Quarto Pub,0,0,1
 quarto-pub-subdomain-site,https://github.com/quarto-dev/quarto-pub-subdomain-site,The [subdomain].quarto.pub website,0,0,0
 external-asg017-unofficial-observablehq-compiler,https://github.com/quarto-dev/external-asg017-unofficial-observablehq-compiler,A fork of @asg017's unofficial compiler for Observable notebook syntax,0,0,0
 external-kpdecker-jsdiff,https://github.com/quarto-dev/external-kpdecker-jsdiff,A javascript text differencing implementation.,0,0,0
