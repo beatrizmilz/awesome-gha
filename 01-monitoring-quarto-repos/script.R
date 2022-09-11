@@ -1,26 +1,24 @@
 print("Hi! Welcome to a GH Actions with an R example :)")
 
-# Install the packages that are used in the script -------
-
-install.packages("gh")
-install.packages("dplyr")
-install.packages("tidyr")
-install.packages("readr")
-install.packages("knitr")
-
 # main script ------------------------------
 
-# get information about the repositories on the Quarto-dev organization.
-quarto_repos_raw <- gh::gh(
+# get information about the repositories on the Quarto organizations.
+
+quarto_orgs <- c("quarto-dev", "quarto-ext", "quarto-journals")
+
+quarto_repos_raw <-
+  purrr::map(quarto_orgs, ~ gh::gh(
   "GET /orgs/{org}/repos",
-  org = "quarto-dev",
+  org = .x,
   type = "public",
   sort = "updated",
   per_page = 100
-)
+))
+
 
 # transform into a tibble with few cols
 quarto_repos <- quarto_repos_raw |>
+  purrr::flatten() |>
   purrr::map(unlist, recursive = TRUE)  |>
   purrr::map_dfr(tibble::enframe, .id = "id_repo") |>
   tidyr::pivot_wider() |>
@@ -37,7 +35,7 @@ quarto_repos <- quarto_repos_raw |>
 
 # write CSV file with the result
 quarto_repos |>
-  readr::write_csv("01-rscript/quarto_repos.csv")
+  readr::write_csv("01-monitoring-quarto-repos/quarto_repos.csv")
 
 # write the README.md file
 
@@ -56,6 +54,6 @@ format(Sys.Date(), '%b %d %Y'),
 <hr> \n
 ",
 paste(table, collapse = "\n")
-) |> writeLines("01-rscript/README.md")
+) |> writeLines("01-monitoring-quarto-repos/README.md")
 
 print("The end! Congrats!")

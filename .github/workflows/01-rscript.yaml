@@ -16,9 +16,18 @@ jobs:
         with:
           use-public-rspm: true
 
+      - uses: r-lib/actions/setup-r-dependencies@v2
+        with:
+          packages: |
+            any::gh
+            any::dplyr
+            any::tidyr
+            any::readr
+            any::knitr
+
       - name: Execute Script
         run: |
-          Rscript "01-rscript/script.R"
+          Rscript "01-monitoring-quarto-repos/script.R"
 
       - name: Commit results
         run: |
