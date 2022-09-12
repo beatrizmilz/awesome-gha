@@ -1,6 +1,6 @@
 # Repositories from quarto-dev
 Made by [Bea Milz](https://twitter.com/beamilz).
-Updated with GitHub Actions in Sep 11 2022.
+Updated with GitHub Actions in Sep 12 2022.
 <hr> 
 
 |name                                             |url                                                                            |description                                                                                     | stars| forks| open_issues|
@@ -22,7 +22,7 @@ Updated with GitHub Actions in Sep 11 2022.
 |quarto-julia                                     |https://github.com/quarto-dev/quarto-julia                                     |Julia interface to quarto-cli                                                                   |    10|     0|           5|
 |code-filename                                    |https://github.com/quarto-ext/code-filename                                    |Add a filename header to code blocks                                                            |    10|     0|           3|
 |quarto-shortcodes                                |https://github.com/quarto-dev/quarto-shortcodes                                |                                                                                                |     8|     1|           2|
-|jss                                              |https://github.com/quarto-journals/jss                                         |Quarto template for the Journal of Statistical Software                                         |     8|     2|           3|
+|jss                                              |https://github.com/quarto-journals/jss                                         |Quarto template for the Journal of Statistical Software                                         |     8|     2|           5|
 |quarto-python                                    |https://github.com/quarto-dev/quarto-python                                    |Python interface to quarto-cli                                                                  |     7|     0|           0|
 |quarto-sublime                                   |https://github.com/quarto-dev/quarto-sublime                                   |                                                                                                |     6|     1|           1|
 |netlify-plugin-quarto                            |https://github.com/quarto-dev/netlify-plugin-quarto                            |                                                                                                |     5|     0|           1|
