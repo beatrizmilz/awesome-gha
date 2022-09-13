@@ -1,14 +1,14 @@
 name,url,description,stars,forks,open_issues
-quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,1192,92,418
+quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,1195,93,421
 quarto-vscode,https://github.com/quarto-dev/quarto-vscode,Quarto extension for VS Code,89,7,28
-quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,87,167,27
+quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,87,168,28
 quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,82,9,34
-quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,49,13,16
-quarto-emacs,https://github.com/quarto-dev/quarto-emacs,An emacs mode for quarto: https://quarto.org,45,5,2
+quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,49,13,17
+quarto-emacs,https://github.com/quarto-dev/quarto-emacs,An emacs mode for quarto: https://quarto.org,46,5,2
 quarto-vim,https://github.com/quarto-dev/quarto-vim,Rmarkdown support for vim,40,10,7
 lightbox,https://github.com/quarto-ext/lightbox,Create lightbox treatments for images in your HTML documents.,28,2,5
+fontawesome,https://github.com/quarto-ext/fontawesome,Use Font Awesome icons in HTML and PDF documents.,23,5,7
 article-format-template,https://github.com/quarto-journals/article-format-template,Template for creating a new journal article format for Quarto ,23,2,6
-fontawesome,https://github.com/quarto-ext/fontawesome,Use Font Awesome icons in HTML and PDF documents.,22,5,7
 quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,16,0,2
 video,https://github.com/quarto-ext/video,Video Extension for Quarto,16,0,1
 quarto-gallery,https://github.com/quarto-dev/quarto-gallery,NA,15,11,0
@@ -27,8 +27,8 @@ quarto-docusaurus,https://github.com/quarto-dev/quarto-docusaurus,NA,3,0,1
 example-project-quarto-netlify-plugin,https://github.com/quarto-dev/example-project-quarto-netlify-plugin,A minimal Quarto project using Quarto's Netlify plugin,2,0,0
 quarto-ojs-runtime,https://github.com/quarto-dev/quarto-ojs-runtime,A runtime for quarto's support of ObservableHQ's reactive Javascript,2,0,0
 latex-environment,https://github.com/quarto-ext/latex-environment,Quarto extension to output custom LaTeX environments.,2,2,1
+quarto-release-bundles,https://github.com/quarto-dev/quarto-release-bundles,Chocolatey package for Quarto,1,0,1
 gridtables,https://github.com/quarto-dev/gridtables,Haskell parser for reStructuredText-style grid tables.,1,0,4
-quarto-choco-bundle,https://github.com/quarto-dev/quarto-choco-bundle,Chocolatey package for Quarto,1,0,0
 jasa,https://github.com/quarto-journals/jasa,Quarto template for the American Statistical Association Journals,1,0,0
 acm,https://github.com/quarto-journals/acm,Quarto template for the Association of Computing Machinery,1,2,5
 quarto-repo-template,https://github.com/quarto-dev/quarto-repo-template,"Repository template with readme styling, issue templates, etc",0,0,0
