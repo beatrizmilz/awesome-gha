@@ -1,13 +1,13 @@
 # Repositories from quarto-dev
 Made by [Bea Milz](https://twitter.com/beamilz).
-Updated with GitHub Actions in Sep 18 2022.
+Updated with GitHub Actions in Sep 19 2022.
 <hr> 
 
 |name                                             |url                                                                            |description                                                                                     | stars| forks| open_issues|
 |:------------------------------------------------|:------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------|-----:|-----:|-----------:|
-|quarto-cli                                       |https://github.com/quarto-dev/quarto-cli                                       |Open-source scientific and technical publishing system built on Pandoc.                         |  1229|    96|         407|
-|quarto-vscode                                    |https://github.com/quarto-dev/quarto-vscode                                    |Quarto extension for VS Code                                                                    |    92|     7|          28|
-|quarto-web                                       |https://github.com/quarto-dev/quarto-web                                       |Quarto website                                                                                  |    88|   173|          31|
+|quarto-cli                                       |https://github.com/quarto-dev/quarto-cli                                       |Open-source scientific and technical publishing system built on Pandoc.                         |  1235|    98|         412|
+|quarto-vscode                                    |https://github.com/quarto-dev/quarto-vscode                                    |Quarto extension for VS Code                                                                    |    93|     7|          28|
+|quarto-web                                       |https://github.com/quarto-dev/quarto-web                                       |Quarto website                                                                                  |    89|   173|          30|
 |quarto-r                                         |https://github.com/quarto-dev/quarto-r                                         |R interface to quarto-cli                                                                       |    84|     9|          34|
 |quarto-actions                                   |https://github.com/quarto-dev/quarto-actions                                   |                                                                                                |    49|    14|          18|
 |quarto-emacs                                     |https://github.com/quarto-dev/quarto-emacs                                     |An emacs mode for quarto: https://quarto.org                                                    |    46|     5|           2|
@@ -32,7 +32,7 @@ Updated with GitHub Actions in Sep 18 2022.
 |quarto-examples                                  |https://github.com/quarto-dev/quarto-examples                                  |A repository of self-contained quarto examples                                                  |     4|     0|           0|
 |example-project-quarto-netlify-plugin            |https://github.com/quarto-dev/example-project-quarto-netlify-plugin            |A minimal Quarto project using Quarto's Netlify plugin                                          |     2|     0|           0|
 |quarto-ojs-runtime                               |https://github.com/quarto-dev/quarto-ojs-runtime                               |A runtime for quarto's support of ObservableHQ's reactive Javascript                            |     2|     0|           0|
-|latex-environment                                |https://github.com/quarto-ext/latex-environment                                |Quarto extension to output custom LaTeX environments.                                           |     2|     2|           2|
+|latex-environment                                |https://github.com/quarto-ext/latex-environment                                |Quarto extension to output custom LaTeX environments.                                           |     2|     3|           3|
 |jasa                                             |https://github.com/quarto-journals/jasa                                        |Quarto template for the American Statistical Association Journals                               |     2|     0|           0|
 |acm                                              |https://github.com/quarto-journals/acm                                         |Quarto template for the Association of Computing Machinery                                      |     2|     2|           5|
 |quarto-release-bundles                           |https://github.com/quarto-dev/quarto-release-bundles                           |Chocolatey package for Quarto                                                                   |     1|     0|           1|
