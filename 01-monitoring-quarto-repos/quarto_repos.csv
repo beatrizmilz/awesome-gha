@@ -1,14 +1,14 @@
 name,url,description,stars,forks,open_issues
-quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,1244,99,413
-quarto-vscode,https://github.com/quarto-dev/quarto-vscode,Quarto extension for VS Code,93,7,27
-quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,90,176,31
-quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,84,9,35
+quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,1245,97,406
+quarto-vscode,https://github.com/quarto-dev/quarto-vscode,Quarto extension for VS Code,93,7,28
+quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,90,178,31
+quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,84,9,34
 quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,50,16,18
 quarto-emacs,https://github.com/quarto-dev/quarto-emacs,An emacs mode for quarto: https://quarto.org,46,5,2
 quarto-vim,https://github.com/quarto-dev/quarto-vim,Rmarkdown support for vim,42,10,7
 lightbox,https://github.com/quarto-ext/lightbox,Create lightbox treatments for images in your HTML documents.,29,2,5
 article-format-template,https://github.com/quarto-journals/article-format-template,Template for creating a new journal article format for Quarto ,24,2,6
-fontawesome,https://github.com/quarto-ext/fontawesome,Use Font Awesome icons in HTML and PDF documents.,23,5,8
+fontawesome,https://github.com/quarto-ext/fontawesome,Use Font Awesome icons in HTML and PDF documents.,23,5,7
 video,https://github.com/quarto-ext/video,Video Extension for Quarto,17,0,2
 quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,16,0,2
 quarto-gallery,https://github.com/quarto-dev/quarto-gallery,NA,15,11,0
@@ -31,12 +31,12 @@ jasa,https://github.com/quarto-journals/jasa,Quarto template for the American St
 acm,https://github.com/quarto-journals/acm,Quarto template for the Association of Computing Machinery,2,2,5
 quarto-release-bundles,https://github.com/quarto-dev/quarto-release-bundles,Chocolatey package for Quarto,1,0,1
 gridtables,https://github.com/quarto-dev/gridtables,Haskell parser for reStructuredText-style grid tables.,1,0,4
-pointer,https://github.com/quarto-ext/pointer,A very simple RevealJS plugin extension that adds support for switching the cursor to a 'pointer' style element while presenting.,1,0,0
-fancy-text,https://github.com/quarto-ext/fancy-text,Output nicely formatted versions of fancy strings such as LaTeX and BibTeX in multiple formats.,1,0,1
+pointer,https://github.com/quarto-ext/pointer,A very simple RevealJS plugin extension that adds support for switching the cursor to a 'pointer' style element while presenting.,1,1,1
+fancy-text,https://github.com/quarto-ext/fancy-text,Output nicely formatted versions of fancy strings such as LaTeX and BibTeX in multiple formats.,1,0,0
 biophysical-journal,https://github.com/quarto-journals/biophysical-journal,Quarto template for Biophysical journal,1,0,0
 acs,https://github.com/quarto-journals/acs,Quarto template for the American Chemical Society,1,0,0
 quarto-repo-template,https://github.com/quarto-dev/quarto-repo-template,"Repository template with readme styling, issue templates, etc",0,0,0
-Quarto-Pub,https://github.com/quarto-dev/Quarto-Pub,Quarto Pub,0,0,1
+Quarto-Pub,https://github.com/quarto-dev/Quarto-Pub,Quarto Pub,0,0,2
 quarto-pub-subdomain-site,https://github.com/quarto-dev/quarto-pub-subdomain-site,The [subdomain].quarto.pub website,0,0,0
 external-asg017-unofficial-observablehq-compiler,https://github.com/quarto-dev/external-asg017-unofficial-observablehq-compiler,A fork of @asg017's unofficial compiler for Observable notebook syntax,0,0,0
 external-kpdecker-jsdiff,https://github.com/quarto-dev/external-kpdecker-jsdiff,A javascript text differencing implementation.,0,0,0
