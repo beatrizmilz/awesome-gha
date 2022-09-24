@@ -1,7 +1,7 @@
 name,url,description,stars,forks,open_issues
-quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,1247,97,407
+quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,1247,98,398
 quarto-vscode,https://github.com/quarto-dev/quarto-vscode,Quarto extension for VS Code,93,7,28
-quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,90,179,33
+quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,90,180,34
 quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,84,9,34
 quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,51,16,18
 quarto-emacs,https://github.com/quarto-dev/quarto-emacs,An emacs mode for quarto: https://quarto.org,46,5,2
@@ -13,21 +13,22 @@ video,https://github.com/quarto-ext/video,Video Extension for Quarto,17,0,2
 quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,16,0,2
 quarto-gallery,https://github.com/quarto-dev/quarto-gallery,NA,15,11,0
 grouped-tabsets,https://github.com/quarto-ext/grouped-tabsets,"Add grouped tabsets, which remember the active tab across multiple HTML documents.",12,2,1
+jss,https://github.com/quarto-journals/jss,Quarto template for the Journal of Statistical Software,11,2,3
 quarto-julia,https://github.com/quarto-dev/quarto-julia,Julia interface to quarto-cli,10,0,5
 code-filename,https://github.com/quarto-ext/code-filename,Add a filename header to code blocks,10,0,3
-jss,https://github.com/quarto-journals/jss,Quarto template for the Journal of Statistical Software,10,2,3
 quarto-shortcodes,https://github.com/quarto-dev/quarto-shortcodes,NA,8,1,2
 quarto-python,https://github.com/quarto-dev/quarto-python,Python interface to quarto-cli,7,0,0
+elsevier,https://github.com/quarto-journals/elsevier,Quarto template for Elsevier Journals,7,2,3
 quarto-sublime,https://github.com/quarto-dev/quarto-sublime,NA,6,1,1
-elsevier,https://github.com/quarto-journals/elsevier,Quarto template for Elsevier Journals,6,2,3
 netlify-plugin-quarto,https://github.com/quarto-dev/netlify-plugin-quarto,NA,5,0,2
 plos,https://github.com/quarto-journals/plos,Quarto template for Public Library of Science,5,1,9
-quarto-docusaurus,https://github.com/quarto-dev/quarto-docusaurus,NA,4,0,1
 quarto-examples,https://github.com/quarto-dev/quarto-examples,A repository of self-contained quarto examples,4,0,0
+quarto-docusaurus,https://github.com/quarto-dev/quarto-docusaurus,NA,4,0,1
 pointer,https://github.com/quarto-ext/pointer,A very simple RevealJS plugin extension that adds support for switching the cursor to a 'pointer' style element while presenting.,3,1,0
 latex-environment,https://github.com/quarto-ext/latex-environment,Quarto extension to output custom LaTeX environments.,3,3,0
 example-project-quarto-netlify-plugin,https://github.com/quarto-dev/example-project-quarto-netlify-plugin,A minimal Quarto project using Quarto's Netlify plugin,2,0,0
 quarto-ojs-runtime,https://github.com/quarto-dev/quarto-ojs-runtime,A runtime for quarto's support of ObservableHQ's reactive Javascript,2,0,0
+shinylive,https://github.com/quarto-ext/shinylive,Quarto extension to embed Shinylive for Python applications,2,0,0
 jasa,https://github.com/quarto-journals/jasa,Quarto template for the American Statistical Association Journals,2,0,0
 acm,https://github.com/quarto-journals/acm,Quarto template for the Association of Computing Machinery,2,2,5
 quarto-release-bundles,https://github.com/quarto-dev/quarto-release-bundles,Chocolatey package for Quarto,1,0,1
