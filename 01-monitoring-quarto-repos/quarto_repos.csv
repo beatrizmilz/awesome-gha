@@ -1,7 +1,7 @@
 name,url,description,stars,forks,open_issues
-quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,1302,106,419
+quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,1304,107,415
 quarto-vscode,https://github.com/quarto-dev/quarto-vscode,Quarto extension for VS Code,95,8,31
-quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,91,192,20
+quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,91,193,21
 quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,86,10,35
 quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,53,16,18
 quarto-emacs,https://github.com/quarto-dev/quarto-emacs,An emacs mode for quarto: https://quarto.org,48,7,2
@@ -16,7 +16,7 @@ grouped-tabsets,https://github.com/quarto-ext/grouped-tabsets,"Add grouped tabse
 jss,https://github.com/quarto-journals/jss,Quarto template for the Journal of Statistical Software,11,2,3
 quarto-julia,https://github.com/quarto-dev/quarto-julia,Julia interface to quarto-cli,10,0,5
 code-filename,https://github.com/quarto-ext/code-filename,Add a filename header to code blocks,10,0,3
-elsevier,https://github.com/quarto-journals/elsevier,Quarto template for Elsevier Journals,9,2,3
+elsevier,https://github.com/quarto-journals/elsevier,Quarto template for Elsevier Journals,9,3,3
 quarto-shortcodes,https://github.com/quarto-dev/quarto-shortcodes,NA,8,1,2
 quarto-python,https://github.com/quarto-dev/quarto-python,Python interface to quarto-cli,7,0,0
 netlify-plugin-quarto,https://github.com/quarto-dev/netlify-plugin-quarto,NA,6,1,4
@@ -32,6 +32,7 @@ quarto-ojs-runtime,https://github.com/quarto-dev/quarto-ojs-runtime,A runtime fo
 jasa,https://github.com/quarto-journals/jasa,Quarto template for the American Statistical Association Journals,2,0,0
 acm,https://github.com/quarto-journals/acm,Quarto template for the Association of Computing Machinery,2,3,5
 quarto-release-bundles,https://github.com/quarto-dev/quarto-release-bundles,Chocolatey package for Quarto,1,0,1
+attribution,https://github.com/quarto-ext/attribution,Display attribution text sideways along the right edge of Revealjs slides.,1,0,0
 fancy-text,https://github.com/quarto-ext/fancy-text,Output nicely formatted versions of fancy strings such as LaTeX and BibTeX in multiple formats.,1,0,0
 biophysical-journal,https://github.com/quarto-journals/biophysical-journal,Quarto template for Biophysical journal,1,1,0
 acs,https://github.com/quarto-journals/acs,Quarto template for the American Chemical Society,1,0,0
