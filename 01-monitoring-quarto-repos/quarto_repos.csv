@@ -1,8 +1,8 @@
 name,url,description,stars,forks,open_issues
-quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,1308,107,413
+quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,1312,108,417
 quarto-vscode,https://github.com/quarto-dev/quarto-vscode,Quarto extension for VS Code,95,8,31
-quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,92,194,20
-quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,86,10,35
+quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,92,195,19
+quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,87,10,35
 quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,53,16,18
 quarto-emacs,https://github.com/quarto-dev/quarto-emacs,An emacs mode for quarto: https://quarto.org,48,7,2
 quarto-vim,https://github.com/quarto-dev/quarto-vim,Rmarkdown support for vim,44,9,6
@@ -10,12 +10,9 @@ lightbox,https://github.com/quarto-ext/lightbox,Create lightbox treatments for i
 fontawesome,https://github.com/quarto-ext/fontawesome,Use Font Awesome icons in HTML and PDF documents.,25,7,9
 article-format-template,https://github.com/quarto-journals/article-format-template,Template for creating a new journal article format for Quarto ,25,3,5
 quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,17,0,2
-video,https://github.com/quarto-ext/video,Video Extension for Quarto,17,0,1
 quarto-gallery,https://github.com/quarto-dev/quarto-gallery,NA,16,11,0
-grouped-tabsets,https://github.com/quarto-ext/grouped-tabsets,"Add grouped tabsets, which remember the active tab across multiple HTML documents.",13,2,1
 jss,https://github.com/quarto-journals/jss,Quarto template for the Journal of Statistical Software,11,2,3
 quarto-julia,https://github.com/quarto-dev/quarto-julia,Julia interface to quarto-cli,10,0,5
-code-filename,https://github.com/quarto-ext/code-filename,Add a filename header to code blocks,10,0,3
 elsevier,https://github.com/quarto-journals/elsevier,Quarto template for Elsevier Journals,9,3,3
 quarto-shortcodes,https://github.com/quarto-dev/quarto-shortcodes,NA,8,1,2
 quarto-python,https://github.com/quarto-dev/quarto-python,Python interface to quarto-cli,7,0,0
@@ -29,10 +26,10 @@ plos,https://github.com/quarto-journals/plos,Quarto template for Public Library 
 gridtables,https://github.com/quarto-dev/gridtables,Haskell parser for reStructuredText-style grid tables.,2,0,4
 example-project-quarto-netlify-plugin,https://github.com/quarto-dev/example-project-quarto-netlify-plugin,A minimal Quarto project using Quarto's Netlify plugin,2,0,0
 quarto-ojs-runtime,https://github.com/quarto-dev/quarto-ojs-runtime,A runtime for quarto's support of ObservableHQ's reactive Javascript,2,1,2
+attribution,https://github.com/quarto-ext/attribution,Display attribution text sideways along the right edge of Revealjs slides.,2,0,0
 jasa,https://github.com/quarto-journals/jasa,Quarto template for the American Statistical Association Journals,2,0,0
-acm,https://github.com/quarto-journals/acm,Quarto template for the Association of Computing Machinery,2,3,5
+acm,https://github.com/quarto-journals/acm,Quarto template for the Association of Computing Machinery,2,3,6
 quarto-release-bundles,https://github.com/quarto-dev/quarto-release-bundles,Chocolatey package for Quarto,1,0,1
-attribution,https://github.com/quarto-ext/attribution,Display attribution text sideways along the right edge of Revealjs slides.,1,0,0
 fancy-text,https://github.com/quarto-ext/fancy-text,Output nicely formatted versions of fancy strings such as LaTeX and BibTeX in multiple formats.,1,0,0
 biophysical-journal,https://github.com/quarto-journals/biophysical-journal,Quarto template for Biophysical journal,1,1,0
 acs,https://github.com/quarto-journals/acs,Quarto template for the American Chemical Society,1,0,0
