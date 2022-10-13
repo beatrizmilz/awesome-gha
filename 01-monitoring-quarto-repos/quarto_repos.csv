@@ -1,13 +1,13 @@
 name,url,description,stars,forks,open_issues
-quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,1321,109,429
-quarto-vscode,https://github.com/quarto-dev/quarto-vscode,Quarto extension for VS Code,96,8,30
-quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,92,199,19
-quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,87,10,38
-quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,55,16,18
+quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,1324,110,422
+quarto-vscode,https://github.com/quarto-dev/quarto-vscode,Quarto extension for VS Code,97,8,32
+quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,92,201,20
+quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,88,11,39
+quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,56,16,18
 quarto-emacs,https://github.com/quarto-dev/quarto-emacs,An emacs mode for quarto: https://quarto.org,50,7,2
 quarto-vim,https://github.com/quarto-dev/quarto-vim,Rmarkdown support for vim,44,9,6
 lightbox,https://github.com/quarto-ext/lightbox,Create lightbox treatments for images in your HTML documents.,30,2,5
-fontawesome,https://github.com/quarto-ext/fontawesome,Use Font Awesome icons in HTML and PDF documents.,25,7,9
+fontawesome,https://github.com/quarto-ext/fontawesome,Use Font Awesome icons in HTML and PDF documents.,26,7,9
 article-format-template,https://github.com/quarto-journals/article-format-template,Template for creating a new journal article format for Quarto ,25,3,6
 quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,17,0,2
 quarto-gallery,https://github.com/quarto-dev/quarto-gallery,NA,16,10,0
@@ -20,7 +20,7 @@ netlify-plugin-quarto,https://github.com/quarto-dev/netlify-plugin-quarto,NA,6,1
 quarto-examples,https://github.com/quarto-dev/quarto-examples,A repository of self-contained quarto examples,6,0,0
 quarto-sublime,https://github.com/quarto-dev/quarto-sublime,NA,6,1,1
 shinylive,https://github.com/quarto-ext/shinylive,Quarto extension to embed Shinylive for Python applications,6,1,0
-latex-environment,https://github.com/quarto-ext/latex-environment,Quarto extension to output custom LaTeX environments.,6,4,0
+latex-environment,https://github.com/quarto-ext/latex-environment,Quarto extension to output custom LaTeX environments.,6,4,1
 pointer,https://github.com/quarto-ext/pointer,A very simple RevealJS plugin extension that adds support for switching the cursor to a 'pointer' style element while presenting.,5,1,0
 plos,https://github.com/quarto-journals/plos,Quarto template for Public Library of Science,5,1,9
 gridtables,https://github.com/quarto-dev/gridtables,Haskell parser for reStructuredText-style grid tables.,2,0,4
@@ -47,4 +47,4 @@ vscode-mermaid-syntax-highlight,https://github.com/quarto-dev/vscode-mermaid-syn
 package_control_channel,https://github.com/quarto-dev/package_control_channel,Default channel file for Package Control. Follow the directions at:,0,0,0
 vscode-markdown-tm-grammar,https://github.com/quarto-dev/vscode-markdown-tm-grammar,VS Code built-in markdown extension's Textmate grammar,0,0,0
 .github,https://github.com/quarto-ext/.github,Organization profile README source,0,0,0
-.github,https://github.com/quarto-journals/.github,NA,0,1,1
+.github,https://github.com/quarto-journals/.github,NA,0,2,1
