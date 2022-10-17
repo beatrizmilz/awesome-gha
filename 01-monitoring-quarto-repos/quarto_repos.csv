@@ -1,9 +1,9 @@
 name,url,description,stars,forks,open_issues
-quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,1333,109,426
+quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,1336,110,426
 quarto-vscode,https://github.com/quarto-dev/quarto-vscode,Quarto extension for VS Code,98,9,33
-quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,93,204,20
+quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,94,205,19
 quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,88,11,39
-quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,57,17,18
+quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,57,17,19
 quarto-emacs,https://github.com/quarto-dev/quarto-emacs,An emacs mode for quarto: https://quarto.org,51,7,2
 quarto-vim,https://github.com/quarto-dev/quarto-vim,Rmarkdown support for vim,44,9,6
 lightbox,https://github.com/quarto-ext/lightbox,Create lightbox treatments for images in your HTML documents.,30,2,5
@@ -23,10 +23,10 @@ shinylive,https://github.com/quarto-ext/shinylive,Quarto extension to embed Shin
 latex-environment,https://github.com/quarto-ext/latex-environment,Quarto extension to output custom LaTeX environments.,6,4,0
 pointer,https://github.com/quarto-ext/pointer,A very simple RevealJS plugin extension that adds support for switching the cursor to a 'pointer' style element while presenting.,5,1,0
 plos,https://github.com/quarto-journals/plos,Quarto template for Public Library of Science,5,1,9
+attribution,https://github.com/quarto-ext/attribution,Display attribution text sideways along the right edge of Revealjs slides.,4,0,0
 gridtables,https://github.com/quarto-dev/gridtables,Haskell parser for reStructuredText-style grid tables.,2,0,4
 example-project-quarto-netlify-plugin,https://github.com/quarto-dev/example-project-quarto-netlify-plugin,A minimal Quarto project using Quarto's Netlify plugin,2,0,0
 quarto-ojs-runtime,https://github.com/quarto-dev/quarto-ojs-runtime,A runtime for quarto's support of ObservableHQ's reactive Javascript,2,1,2
-attribution,https://github.com/quarto-ext/attribution,Display attribution text sideways along the right edge of Revealjs slides.,2,0,0
 jasa,https://github.com/quarto-journals/jasa,Quarto template for the American Statistical Association Journals,2,0,0
 acm,https://github.com/quarto-journals/acm,Quarto template for the Association of Computing Machinery,2,2,5
 quarto-release-bundles,https://github.com/quarto-dev/quarto-release-bundles,Chocolatey package for Quarto,1,0,1
