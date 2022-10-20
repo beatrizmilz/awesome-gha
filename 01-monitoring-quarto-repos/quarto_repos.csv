@@ -1,14 +1,14 @@
 name,url,description,stars,forks,open_issues
-quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,1348,112,434
+quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,1353,112,437
 quarto-vscode,https://github.com/quarto-dev/quarto-vscode,Quarto extension for VS Code,98,9,34
-quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,94,206,18
-quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,88,11,39
+quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,94,208,19
+quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,88,11,40
 quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,57,18,19
 quarto-emacs,https://github.com/quarto-dev/quarto-emacs,An emacs mode for quarto: https://quarto.org,51,7,2
 quarto-vim,https://github.com/quarto-dev/quarto-vim,Rmarkdown support for vim,44,9,6
-lightbox,https://github.com/quarto-ext/lightbox,Create lightbox treatments for images in your HTML documents.,31,2,5
+lightbox,https://github.com/quarto-ext/lightbox,Create lightbox treatments for images in your HTML documents.,32,2,5
 fontawesome,https://github.com/quarto-ext/fontawesome,Use Font Awesome icons in HTML and PDF documents.,26,7,10
-article-format-template,https://github.com/quarto-journals/article-format-template,Template for creating a new journal article format for Quarto ,25,3,6
+article-format-template,https://github.com/quarto-journals/article-format-template,Template for creating a new journal article format for Quarto ,26,3,6
 quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,19,0,2
 quarto-gallery,https://github.com/quarto-dev/quarto-gallery,NA,16,10,0
 jss,https://github.com/quarto-journals/jss,Quarto template for the Journal of Statistical Software,11,2,2
