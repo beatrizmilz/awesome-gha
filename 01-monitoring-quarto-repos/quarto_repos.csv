@@ -1,7 +1,7 @@
 name,url,description,stars,forks,open_issues
-quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,1390,117,456
+quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,1394,116,457
 quarto-vscode,https://github.com/quarto-dev/quarto-vscode,Quarto extension for VS Code,100,10,36
-quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,98,217,19
+quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,98,217,18
 quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,88,11,39
 quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,58,18,20
 quarto-emacs,https://github.com/quarto-dev/quarto-emacs,An emacs mode for quarto: https://quarto.org,53,7,2
@@ -9,7 +9,7 @@ quarto-vim,https://github.com/quarto-dev/quarto-vim,Rmarkdown support for vim,44
 lightbox,https://github.com/quarto-ext/lightbox,Create lightbox treatments for images in your HTML documents.,32,2,6
 article-format-template,https://github.com/quarto-journals/article-format-template,Template for creating a new journal article format for Quarto ,29,3,7
 fontawesome,https://github.com/quarto-ext/fontawesome,Use Font Awesome icons in HTML and PDF documents.,28,7,2
-shinylive,https://github.com/quarto-ext/shinylive,Quarto extension to embed Shinylive for Python applications,23,1,0
+shinylive,https://github.com/quarto-ext/shinylive,Quarto extension to embed Shinylive for Python applications,24,1,1
 quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,20,0,2
 quarto-gallery,https://github.com/quarto-dev/quarto-gallery,NA,16,10,0
 jss,https://github.com/quarto-journals/jss,Quarto template for the Journal of Statistical Software,11,2,2
