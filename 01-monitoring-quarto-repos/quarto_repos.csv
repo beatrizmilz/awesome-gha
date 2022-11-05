@@ -1,16 +1,16 @@
 name,url,description,stars,forks,open_issues
-quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,1416,117,466
-quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,104,225,19
+quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,1426,118,474
+quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,104,224,19
 quarto-vscode,https://github.com/quarto-dev/quarto-vscode,Quarto extension for VS Code,101,10,40
-quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,88,11,40
-quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,61,18,20
+quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,89,11,40
+quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,62,18,19
 quarto-emacs,https://github.com/quarto-dev/quarto-emacs,An emacs mode for quarto: https://quarto.org,54,7,2
 quarto-vim,https://github.com/quarto-dev/quarto-vim,Rmarkdown support for vim,43,9,6
 lightbox,https://github.com/quarto-ext/lightbox,Create lightbox treatments for images in your HTML documents.,32,2,5
 shinylive,https://github.com/quarto-ext/shinylive,Quarto extension to embed Shinylive for Python applications,29,1,1
 article-format-template,https://github.com/quarto-journals/article-format-template,Template for creating a new journal article format for Quarto ,29,3,7
 fontawesome,https://github.com/quarto-ext/fontawesome,Use Font Awesome icons in HTML and PDF documents.,28,7,2
-quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,21,0,2
+quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,22,0,2
 quarto-gallery,https://github.com/quarto-dev/quarto-gallery,NA,16,10,0
 jss,https://github.com/quarto-journals/jss,Quarto template for the Journal of Statistical Software,11,2,3
 quarto-julia,https://github.com/quarto-dev/quarto-julia,Julia interface to quarto-cli,10,0,5
