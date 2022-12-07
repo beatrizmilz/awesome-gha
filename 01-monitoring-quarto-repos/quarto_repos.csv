@@ -1,6 +1,6 @@
 name,url,description,stars,forks,open_issues
-quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,1567,131,532
-quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,109,257,8
+quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,1572,131,532
+quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,109,258,9
 quarto-vscode,https://github.com/quarto-dev/quarto-vscode,Quarto extension for VS Code,108,10,48
 quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,90,11,45
 quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,76,20,22
@@ -16,10 +16,10 @@ elsevier,https://github.com/quarto-journals/elsevier,Quarto template for Elsevie
 quarto-julia,https://github.com/quarto-dev/quarto-julia,Julia interface to quarto-cli,11,0,5
 jss,https://github.com/quarto-journals/jss,Quarto template for the Journal of Statistical Software,11,2,3
 pointer,https://github.com/quarto-ext/pointer,A very simple RevealJS plugin extension that adds support for switching the cursor to a 'pointer' style element while presenting.,10,2,0
+attribution,https://github.com/quarto-ext/attribution,Display attribution text sideways along the right edge of Revealjs slides.,9,0,1
 latex-environment,https://github.com/quarto-ext/latex-environment,Quarto extension to output custom LaTeX environments.,9,4,0
 quarto-python,https://github.com/quarto-dev/quarto-python,Python interface to quarto-cli,8,0,0
 quarto-shortcodes,https://github.com/quarto-dev/quarto-shortcodes,NA,8,1,2
-attribution,https://github.com/quarto-ext/attribution,Display attribution text sideways along the right edge of Revealjs slides.,8,0,1
 netlify-plugin-quarto,https://github.com/quarto-dev/netlify-plugin-quarto,NA,7,1,4
 quarto-sublime,https://github.com/quarto-dev/quarto-sublime,NA,7,1,1
 quarto-examples,https://github.com/quarto-dev/quarto-examples,A repository of self-contained quarto examples,6,0,0
