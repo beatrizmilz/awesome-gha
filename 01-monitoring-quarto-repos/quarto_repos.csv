@@ -1,10 +1,10 @@
 name,url,description,stars,forks,open_issues
-quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,1583,133,534
-quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,110,264,9
+quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,1587,134,533
+quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,111,265,9
 quarto-vscode,https://github.com/quarto-dev/quarto-vscode,Quarto extension for VS Code,108,10,49
 quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,91,11,45
 quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,78,20,23
-quarto-emacs,https://github.com/quarto-dev/quarto-emacs,An emacs mode for quarto: https://quarto.org,59,8,3
+quarto-emacs,https://github.com/quarto-dev/quarto-emacs,An emacs mode for quarto: https://quarto.org,60,9,3
 quarto-vim,https://github.com/quarto-dev/quarto-vim,Rmarkdown support for vim,44,10,6
 shinylive,https://github.com/quarto-ext/shinylive,Quarto extension to embed Shinylive for Python applications,42,1,3
 lightbox,https://github.com/quarto-ext/lightbox,Create lightbox treatments for images in your HTML documents.,35,2,6
