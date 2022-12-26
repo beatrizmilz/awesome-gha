@@ -1,6 +1,6 @@
 # Repositories from quarto-dev
 Made by [Bea Milz](https://twitter.com/beamilz).
-Updated with GitHub Actions in Dec 25 2022.
+Updated with GitHub Actions in Dec 26 2022.
 <hr> 
 
 |name                                             |url                                                                            |description                                                                                                                       | stars| forks| open_issues|
@@ -18,8 +18,8 @@ Updated with GitHub Actions in Dec 25 2022.
 |fontawesome                                      |https://github.com/quarto-ext/fontawesome                                      |Use Font Awesome icons in HTML and PDF documents.                                                                                 |    34|     6|           3|
 |article-format-template                          |https://github.com/quarto-journals/article-format-template                     |Template for creating a new journal article format for Quarto                                                                     |    29|     2|           7|
 |quarto-gallery                                   |https://github.com/quarto-dev/quarto-gallery                                   |                                                                                                                                  |    16|    11|           0|
+|quarto                                           |https://github.com/quarto-dev/quarto                                           |Quarto open-source scientific and technical publishing system                                                                     |    13|     2|          42|
 |elsevier                                         |https://github.com/quarto-journals/elsevier                                    |Quarto template for Elsevier Journals                                                                                             |    13|     5|           5|
-|quarto                                           |https://github.com/quarto-dev/quarto                                           |Quarto open-source scientific and technical publishing system                                                                     |    12|     2|          42|
 |quarto-julia                                     |https://github.com/quarto-dev/quarto-julia                                     |Julia interface to quarto-cli                                                                                                     |    12|     0|           5|
 |pointer                                          |https://github.com/quarto-ext/pointer                                          |A very simple RevealJS plugin extension that adds support for switching the cursor to a 'pointer' style element while presenting. |    11|     3|           0|
 |jss                                              |https://github.com/quarto-journals/jss                                         |Quarto template for the Journal of Statistical Software                                                                           |    11|     2|           3|
