@@ -1,17 +1,17 @@
 name,url,description,stars,forks,open_issues
-quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,1787,145,601
-quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,123,304,16
+quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,1792,146,608
+quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,123,306,16
 quarto-vscode,https://github.com/quarto-dev/quarto-vscode,Quarto extension for VS Code,108,11,0
 quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,93,11,21
 quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,88,23,21
 quarto-emacs,https://github.com/quarto-dev/quarto-emacs,An emacs mode for quarto: https://quarto.org,68,9,4
 quarto-vim,https://github.com/quarto-dev/quarto-vim,Rmarkdown support for vim,46,10,6
 shinylive,https://github.com/quarto-ext/shinylive,Quarto extension to embed Shinylive for Python applications,46,1,4
-quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,44,0,2
+quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,44,0,3
 lightbox,https://github.com/quarto-ext/lightbox,Create lightbox treatments for images in your HTML documents.,39,2,6
-fontawesome,https://github.com/quarto-ext/fontawesome,Use Font Awesome icons in HTML and PDF documents.,36,6,3
+fontawesome,https://github.com/quarto-ext/fontawesome,Use Font Awesome icons in HTML and PDF documents.,37,6,3
 article-format-template,https://github.com/quarto-journals/article-format-template,Template for creating a new journal article format for Quarto ,31,3,7
-quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,24,2,56
+quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,24,2,59
 quarto-gallery,https://github.com/quarto-dev/quarto-gallery,NA,18,15,0
 elsevier,https://github.com/quarto-journals/elsevier,Quarto template for Elsevier Journals,16,6,2
 quarto-julia,https://github.com/quarto-dev/quarto-julia,Julia interface to quarto-cli,12,0,6
@@ -21,8 +21,8 @@ attribution,https://github.com/quarto-ext/attribution,Display attribution text s
 latex-environment,https://github.com/quarto-ext/latex-environment,Quarto extension to output custom LaTeX environments.,10,4,1
 quarto-sublime,https://github.com/quarto-dev/quarto-sublime,NA,9,1,1
 quarto-python,https://github.com/quarto-dev/quarto-python,Python interface to quarto-cli,9,0,0
+netlify-plugin-quarto,https://github.com/quarto-dev/netlify-plugin-quarto,NA,8,1,4
 quarto-shortcodes,https://github.com/quarto-dev/quarto-shortcodes,NA,8,2,2
-netlify-plugin-quarto,https://github.com/quarto-dev/netlify-plugin-quarto,NA,7,1,4
 include-code-files,https://github.com/quarto-ext/include-code-files,NA,7,0,0
 quarto-examples,https://github.com/quarto-dev/quarto-examples,A repository of self-contained quarto examples,6,0,0
 plos,https://github.com/quarto-journals/plos,Quarto template for Public Library of Science,6,1,10
