@@ -1,19 +1,19 @@
 name,url,description,stars,forks,open_issues
-quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,1984,162,633
-quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,139,355,8
+quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,1988,164,641
+quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,139,357,7
 quarto-vscode,https://github.com/quarto-dev/quarto-vscode,Quarto extension for VS Code,109,12,0
 quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,102,26,22
 quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,100,14,27
 quarto-emacs,https://github.com/quarto-dev/quarto-emacs,An emacs mode for quarto: https://quarto.org,76,9,5
 quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,76,1,5
-shinylive,https://github.com/quarto-ext/shinylive,Quarto extension to embed Shinylive for Python applications,51,1,4
+shinylive,https://github.com/quarto-ext/shinylive,Quarto extension to embed Shinylive for Python applications,54,1,4
 quarto-vim,https://github.com/quarto-dev/quarto-vim,Rmarkdown support for vim,50,12,5
-quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,45,3,39
-lightbox,https://github.com/quarto-ext/lightbox,Create lightbox treatments for images in your HTML documents.,45,2,6
+lightbox,https://github.com/quarto-ext/lightbox,Create lightbox treatments for images in your HTML documents.,46,2,6
+quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,45,3,33
 fontawesome,https://github.com/quarto-ext/fontawesome,Use Font Awesome icons in HTML and PDF documents.,41,7,3
 article-format-template,https://github.com/quarto-journals/article-format-template,Template for creating a new journal article format for Quarto ,35,6,7
 quarto-gallery,https://github.com/quarto-dev/quarto-gallery,NA,23,18,0
-elsevier,https://github.com/quarto-journals/elsevier,Quarto template for Elsevier Journals,21,6,4
+elsevier,https://github.com/quarto-journals/elsevier,Quarto template for Elsevier Journals,22,6,4
 quarto-julia,https://github.com/quarto-dev/quarto-julia,Julia interface to quarto-cli,16,0,6
 include-code-files,https://github.com/quarto-ext/include-code-files,NA,16,1,4
 jss,https://github.com/quarto-journals/jss,Quarto template for the Journal of Statistical Software,15,2,3
