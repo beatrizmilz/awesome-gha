@@ -1,8 +1,8 @@
 name,url,description,stars,forks,open_issues
-quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,2000,164,644
-quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,139,361,7
+quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,2007,164,644
+quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,139,363,8
 quarto-vscode,https://github.com/quarto-dev/quarto-vscode,Quarto extension for VS Code,109,12,0
-quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,102,26,22
+quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,103,26,22
 quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,100,13,27
 quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,78,1,4
 quarto-emacs,https://github.com/quarto-dev/quarto-emacs,An emacs mode for quarto: https://quarto.org,76,9,6
@@ -15,9 +15,9 @@ article-format-template,https://github.com/quarto-journals/article-format-templa
 quarto-gallery,https://github.com/quarto-dev/quarto-gallery,NA,23,18,0
 elsevier,https://github.com/quarto-journals/elsevier,Quarto template for Elsevier Journals,22,6,4
 quarto-julia,https://github.com/quarto-dev/quarto-julia,Julia interface to quarto-cli,16,0,6
-include-code-files,https://github.com/quarto-ext/include-code-files,NA,16,1,4
+include-code-files,https://github.com/quarto-ext/include-code-files,NA,16,2,4
 jss,https://github.com/quarto-journals/jss,Quarto template for the Journal of Statistical Software,15,2,3
-latex-environment,https://github.com/quarto-ext/latex-environment,Quarto extension to output custom LaTeX environments.,13,4,1
+latex-environment,https://github.com/quarto-ext/latex-environment,Quarto extension to output custom LaTeX environments.,14,4,1
 pointer,https://github.com/quarto-ext/pointer,A very simple RevealJS plugin extension that adds support for switching the cursor to a 'pointer' style element while presenting.,13,4,0
 quarto-python,https://github.com/quarto-dev/quarto-python,Python interface to quarto-cli,11,0,0
 attribution,https://github.com/quarto-ext/attribution,Display attribution text sideways along the right edge of Revealjs slides.,11,0,1
