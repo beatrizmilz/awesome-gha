@@ -1,15 +1,15 @@
 name,url,description,stars,forks,open_issues
-quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,2026,166,653
+quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,2032,166,657
 quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,140,371,13
 quarto-vscode,https://github.com/quarto-dev/quarto-vscode,Quarto extension for VS Code,109,12,0
-quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,104,26,24
+quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,105,26,25
 quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,100,13,28
 quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,80,1,4
 quarto-emacs,https://github.com/quarto-dev/quarto-emacs,An emacs mode for quarto: https://quarto.org,78,9,6
 shinylive,https://github.com/quarto-ext/shinylive,Quarto extension to embed Shinylive for Python applications,55,1,4
 quarto-vim,https://github.com/quarto-dev/quarto-vim,Rmarkdown support for vim,50,12,5
 lightbox,https://github.com/quarto-ext/lightbox,Create lightbox treatments for images in your HTML documents.,46,2,6
-quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,45,3,33
+quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,45,3,34
 fontawesome,https://github.com/quarto-ext/fontawesome,Use Font Awesome icons in HTML and PDF documents.,43,7,3
 article-format-template,https://github.com/quarto-journals/article-format-template,Template for creating a new journal article format for Quarto ,35,6,7
 quarto-gallery,https://github.com/quarto-dev/quarto-gallery,NA,24,18,0
