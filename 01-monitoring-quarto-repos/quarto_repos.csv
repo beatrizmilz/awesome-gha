@@ -1,13 +1,13 @@
 name,url,description,stars,forks,open_issues
-quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,2082,169,713
-quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,145,391,5
+quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,2087,169,718
+quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,146,393,7
 quarto-vscode,https://github.com/quarto-dev/quarto-vscode,Quarto extension for VS Code,111,12,0
-quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,107,26,23
+quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,108,26,23
 quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,102,14,29
-quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,89,1,7
-quarto-emacs,https://github.com/quarto-dev/quarto-emacs,An emacs mode for quarto: https://quarto.org,80,9,6
-shinylive,https://github.com/quarto-ext/shinylive,Quarto extension to embed Shinylive for Python applications,57,1,5
-quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,51,4,38
+quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,91,1,6
+quarto-emacs,https://github.com/quarto-dev/quarto-emacs,An emacs mode for quarto: https://quarto.org,79,9,6
+shinylive,https://github.com/quarto-ext/shinylive,Quarto extension to embed Shinylive for Python applications,58,1,5
+quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,53,4,40
 lightbox,https://github.com/quarto-ext/lightbox,Create lightbox treatments for images in your HTML documents.,51,3,6
 quarto-vim,https://github.com/quarto-dev/quarto-vim,Rmarkdown support for vim,50,12,5
 fontawesome,https://github.com/quarto-ext/fontawesome,Use Font Awesome icons in HTML and PDF documents.,45,7,3
@@ -38,7 +38,7 @@ biophysical-journal,https://github.com/quarto-journals/biophysical-journal,Quart
 quarto-repo-template,https://github.com/quarto-dev/quarto-repo-template,"Repository template with readme styling, issue templates, etc",0,0,0
 Quarto-Pub,https://github.com/quarto-dev/Quarto-Pub,Quarto Pub,0,0,2
 quarto-pub-subdomain-site,https://github.com/quarto-dev/quarto-pub-subdomain-site,The [subdomain].quarto.pub website,0,0,0
-external-asg017-unofficial-observablehq-compiler,https://github.com/quarto-dev/external-asg017-unofficial-observablehq-compiler,A fork of @asg017's unofficial compiler for Observable notebook syntax,0,0,0
+external-asg017-unofficial-observablehq-compiler,https://github.com/quarto-dev/external-asg017-unofficial-observablehq-compiler,A fork of @asg017's unofficial compiler for Observable notebook syntax,0,1,0
 external-kpdecker-jsdiff,https://github.com/quarto-dev/external-kpdecker-jsdiff,A javascript text differencing implementation.,0,0,0
 external-mermaid-js-mermaid,https://github.com/quarto-dev/external-mermaid-js-mermaid,Generation of diagram and flowchart from text in a similar manner as markdown,0,0,0
 external-observablehq-runtime,https://github.com/quarto-dev/external-observablehq-runtime,A fork of the Observable dataflow runtime.,0,0,0
