@@ -1,18 +1,18 @@
 name,url,description,stars,forks,open_issues
-quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,2146,171,749
+quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,2152,172,747
 quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,149,405,9
 quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,112,25,23
 quarto-vscode,https://github.com/quarto-dev/quarto-vscode,Quarto extension for VS Code,111,13,0
-quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,103,14,31
-quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,97,3,3
+quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,104,14,31
+quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,97,3,4
 quarto-emacs,https://github.com/quarto-dev/quarto-emacs,An emacs mode for quarto: https://quarto.org,80,10,6
-shinylive,https://github.com/quarto-ext/shinylive,Quarto extension to embed Shinylive for Python applications,59,1,5
-quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,56,4,42
+shinylive,https://github.com/quarto-ext/shinylive,Quarto extension to embed Shinylive for Python applications,60,1,5
+quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,58,5,44
 quarto-vim,https://github.com/quarto-dev/quarto-vim,Rmarkdown support for vim,51,12,5
 lightbox,https://github.com/quarto-ext/lightbox,Create lightbox treatments for images in your HTML documents.,51,3,6
 fontawesome,https://github.com/quarto-ext/fontawesome,Use Font Awesome icons in HTML and PDF documents.,46,7,3
 article-format-template,https://github.com/quarto-journals/article-format-template,Template for creating a new journal article format for Quarto ,36,7,8
-quarto-gallery,https://github.com/quarto-dev/quarto-gallery,NA,26,18,0
+quarto-gallery,https://github.com/quarto-dev/quarto-gallery,NA,26,19,0
 elsevier,https://github.com/quarto-journals/elsevier,Quarto template for Elsevier Journals,23,8,4
 include-code-files,https://github.com/quarto-ext/include-code-files,NA,19,2,4
 quarto-julia,https://github.com/quarto-dev/quarto-julia,Julia interface to quarto-cli,16,0,6
