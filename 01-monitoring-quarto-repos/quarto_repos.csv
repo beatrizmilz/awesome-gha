@@ -1,16 +1,16 @@
 name,url,description,stars,forks,open_issues
-quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,2195,174,769
+quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,2198,175,772
 quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,152,414,9
 quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,114,26,23
 quarto-vscode,https://github.com/quarto-dev/quarto-vscode,Quarto extension for VS Code,111,13,0
 quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,106,14,34
-quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,104,3,5
+quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,104,3,4
 quarto-emacs,https://github.com/quarto-dev/quarto-emacs,An emacs mode for quarto: https://quarto.org,83,10,6
-quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,66,5,48
+quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,67,5,48
 shinylive,https://github.com/quarto-ext/shinylive,Quarto extension to embed Shinylive for Python applications,62,1,6
-lightbox,https://github.com/quarto-ext/lightbox,Create lightbox treatments for images in your HTML documents.,52,3,7
+lightbox,https://github.com/quarto-ext/lightbox,Create lightbox treatments for images in your HTML documents.,53,3,7
 quarto-vim,https://github.com/quarto-dev/quarto-vim,Rmarkdown support for vim,51,12,5
-fontawesome,https://github.com/quarto-ext/fontawesome,Use Font Awesome icons in HTML and PDF documents.,46,7,3
+fontawesome,https://github.com/quarto-ext/fontawesome,Use Font Awesome icons in HTML and PDF documents.,47,7,3
 article-format-template,https://github.com/quarto-journals/article-format-template,Template for creating a new journal article format for Quarto ,36,7,8
 quarto-gallery,https://github.com/quarto-dev/quarto-gallery,NA,26,21,1
 elsevier,https://github.com/quarto-journals/elsevier,Quarto template for Elsevier Journals,23,8,4
