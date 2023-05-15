@@ -1,5 +1,5 @@
 name,url,description,stars,forks,open_issues
-quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,2224,178,783
+quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,2225,178,790
 quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,153,418,10
 quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,119,26,23
 quarto-vscode,https://github.com/quarto-dev/quarto-vscode,Quarto extension for VS Code,111,13,0
@@ -14,7 +14,7 @@ fontawesome,https://github.com/quarto-ext/fontawesome,Use Font Awesome icons in 
 article-format-template,https://github.com/quarto-journals/article-format-template,Template for creating a new journal article format for Quarto ,37,7,8
 quarto-gallery,https://github.com/quarto-dev/quarto-gallery,NA,27,20,1
 elsevier,https://github.com/quarto-journals/elsevier,Quarto template for Elsevier Journals,23,8,4
-include-code-files,https://github.com/quarto-ext/include-code-files,NA,20,2,4
+include-code-files,https://github.com/quarto-ext/include-code-files,NA,21,2,4
 quarto-julia,https://github.com/quarto-dev/quarto-julia,Julia interface to quarto-cli,16,0,6
 pointer,https://github.com/quarto-ext/pointer,A very simple RevealJS plugin extension that adds support for switching the cursor to a 'pointer' style element while presenting.,15,4,1
 jss,https://github.com/quarto-journals/jss,Quarto template for the Journal of Statistical Software,15,2,3
@@ -24,8 +24,8 @@ plos,https://github.com/quarto-journals/plos,Quarto template for Public Library 
 quarto-python,https://github.com/quarto-dev/quarto-python,Python interface to quarto-cli,11,0,0
 netlify-plugin-quarto,https://github.com/quarto-dev/netlify-plugin-quarto,NA,9,1,4
 quarto-sublime,https://github.com/quarto-dev/quarto-sublime,NA,9,1,1
+typst-templates,https://github.com/quarto-ext/typst-templates,NA,9,0,0
 quarto-shortcodes,https://github.com/quarto-dev/quarto-shortcodes,NA,8,2,2
-typst-templates,https://github.com/quarto-ext/typst-templates,NA,8,0,0
 quarto-examples,https://github.com/quarto-dev/quarto-examples,A repository of self-contained quarto examples,7,0,1
 jasa,https://github.com/quarto-journals/jasa,Quarto template for the American Statistical Association Journals,7,6,1
 acm,https://github.com/quarto-journals/acm,Quarto template for the Association of Computing Machinery,5,5,6
