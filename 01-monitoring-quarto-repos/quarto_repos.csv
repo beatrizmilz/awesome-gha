@@ -1,12 +1,12 @@
 name,url,description,stars,forks,open_issues
-quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,2327,198,860
-quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,166,450,11
+quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,2331,198,866
+quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,167,450,11
 quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,137,3,3
 quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,126,28,26
 quarto-vscode,https://github.com/quarto-dev/quarto-vscode,Quarto extension for VS Code,110,13,0
-quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,108,15,36
+quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,109,15,36
+quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,90,5,67
 quarto-emacs,https://github.com/quarto-dev/quarto-emacs,An emacs mode for quarto: https://quarto.org,89,10,7
-quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,89,5,67
 shinylive,https://github.com/quarto-ext/shinylive,Quarto extension to embed Shinylive for Python applications,66,1,8
 lightbox,https://github.com/quarto-ext/lightbox,Create lightbox treatments for images in your HTML documents.,54,3,7
 fontawesome,https://github.com/quarto-ext/fontawesome,Use Font Awesome icons in HTML and PDF documents.,52,6,3
@@ -28,7 +28,8 @@ quarto-sublime,https://github.com/quarto-dev/quarto-sublime,NA,9,1,1
 quarto-shortcodes,https://github.com/quarto-dev/quarto-shortcodes,NA,8,2,2
 quarto-examples,https://github.com/quarto-dev/quarto-examples,A repository of self-contained quarto examples,7,0,1
 jasa,https://github.com/quarto-journals/jasa,Quarto template for the American Statistical Association Journals,7,6,1
-acm,https://github.com/quarto-journals/acm,Quarto template for the Association of Computing Machinery,5,5,6
+acm,https://github.com/quarto-journals/acm,Quarto template for the Association of Computing Machinery,5,5,7
+jupyterlab-quarto,https://github.com/quarto-dev/jupyterlab-quarto,Quarto JupyterLab Extension,4,0,1
 fancy-text,https://github.com/quarto-ext/fancy-text,Output nicely formatted versions of fancy strings such as LaTeX and BibTeX in multiple formats.,3,1,0
 gridtables,https://github.com/quarto-dev/gridtables,Haskell parser for reStructuredText-style grid tables.,2,0,4
 example-project-quarto-netlify-plugin,https://github.com/quarto-dev/example-project-quarto-netlify-plugin,A minimal Quarto project using Quarto's Netlify plugin,2,0,0
