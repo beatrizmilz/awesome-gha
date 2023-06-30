@@ -1,12 +1,12 @@
 name,url,description,stars,forks,open_issues
-quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,2344,199,874
-quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,169,454,10
+quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,2345,199,873
+quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,170,456,9
 quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,138,3,3
-quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,131,30,25
+quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,132,30,25
 quarto-vscode,https://github.com/quarto-dev/quarto-vscode,Quarto extension for VS Code,110,13,0
-quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,109,15,36
-quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,91,5,70
-quarto-emacs,https://github.com/quarto-dev/quarto-emacs,An emacs mode for quarto: https://quarto.org,91,10,7
+quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,109,16,36
+quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,92,5,71
+quarto-emacs,https://github.com/quarto-dev/quarto-emacs,An emacs mode for quarto: https://quarto.org,92,10,7
 shinylive,https://github.com/quarto-ext/shinylive,Quarto extension to embed Shinylive for Python applications,66,1,9
 lightbox,https://github.com/quarto-ext/lightbox,Create lightbox treatments for images in your HTML documents.,54,3,7
 fontawesome,https://github.com/quarto-ext/fontawesome,Use Font Awesome icons in HTML and PDF documents.,53,6,3
@@ -27,7 +27,7 @@ netlify-plugin-quarto,https://github.com/quarto-dev/netlify-plugin-quarto,NA,10,
 quarto-sublime,https://github.com/quarto-dev/quarto-sublime,NA,9,1,1
 quarto-shortcodes,https://github.com/quarto-dev/quarto-shortcodes,NA,8,2,2
 quarto-examples,https://github.com/quarto-dev/quarto-examples,A repository of self-contained quarto examples,7,0,1
-jasa,https://github.com/quarto-journals/jasa,Quarto template for the American Statistical Association Journals,7,6,1
+jasa,https://github.com/quarto-journals/jasa,Quarto template for the American Statistical Association Journals,7,7,1
 acm,https://github.com/quarto-journals/acm,Quarto template for the Association of Computing Machinery,5,5,7
 jupyterlab-quarto,https://github.com/quarto-dev/jupyterlab-quarto,Quarto JupyterLab Extension,4,0,0
 fancy-text,https://github.com/quarto-ext/fancy-text,Output nicely formatted versions of fancy strings such as LaTeX and BibTeX in multiple formats.,3,1,0
