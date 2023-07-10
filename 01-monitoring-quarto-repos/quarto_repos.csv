@@ -1,8 +1,8 @@
 name,url,description,stars,forks,open_issues
-quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,2378,201,887
-quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,171,459,8
-quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,139,3,3
-quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,133,30,26
+quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,2379,201,890
+quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,172,462,9
+quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,139,3,4
+quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,134,30,26
 quarto-vscode,https://github.com/quarto-dev/quarto-vscode,Quarto extension for VS Code,110,13,0
 quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,109,16,36
 quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,94,5,73
@@ -19,7 +19,7 @@ pointer,https://github.com/quarto-ext/pointer,A very simple RevealJS plugin exte
 quarto-julia,https://github.com/quarto-dev/quarto-julia,Julia interface to quarto-cli,16,0,6
 jss,https://github.com/quarto-journals/jss,Quarto template for the Journal of Statistical Software,16,2,3
 latex-environment,https://github.com/quarto-ext/latex-environment,Quarto extension to output custom LaTeX environments.,15,3,2
-typst-templates,https://github.com/quarto-ext/typst-templates,NA,13,0,0
+typst-templates,https://github.com/quarto-ext/typst-templates,NA,14,0,0
 attribution,https://github.com/quarto-ext/attribution,Display attribution text sideways along the right edge of Revealjs slides.,12,0,2
 plos,https://github.com/quarto-journals/plos,Quarto template for Public Library of Science,12,1,10
 quarto-python,https://github.com/quarto-dev/quarto-python,Python interface to quarto-cli,11,0,0
