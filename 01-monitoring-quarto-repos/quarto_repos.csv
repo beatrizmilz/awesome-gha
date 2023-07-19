@@ -1,13 +1,13 @@
 name,url,description,stars,forks,open_issues
 quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,2386,200,886
-quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,174,463,8
+quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,174,463,7
 quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,140,3,3
 quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,135,30,26
 quarto-vscode,https://github.com/quarto-dev/quarto-vscode,Quarto extension for VS Code,110,13,0
 quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,109,16,36
 quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,99,5,75
 quarto-emacs,https://github.com/quarto-dev/quarto-emacs,An emacs mode for quarto: https://quarto.org,92,10,7
-shinylive,https://github.com/quarto-ext/shinylive,Quarto extension to embed Shinylive for Python applications,67,1,9
+shinylive,https://github.com/quarto-ext/shinylive,Quarto extension to embed Shinylive for Python applications,67,1,10
 lightbox,https://github.com/quarto-ext/lightbox,Create lightbox treatments for images in your HTML documents.,56,3,7
 fontawesome,https://github.com/quarto-ext/fontawesome,Use Font Awesome icons in HTML and PDF documents.,54,6,3
 quarto-vim,https://github.com/quarto-dev/quarto-vim,Rmarkdown support for vim,51,12,5
