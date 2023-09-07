@@ -1,14 +1,14 @@
 name,url,description,stars,forks,open_issues
-quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,2511,217,963
-quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,181,509,14
+quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,2513,217,967
+quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,181,507,14
 quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,150,3,6
 quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,146,32,28
-quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,114,8,84
+quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,115,8,84
 quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,111,17,36
 quarto-vscode,https://github.com/quarto-dev/quarto-vscode,Quarto extension for VS Code,110,13,0
 quarto-emacs,https://github.com/quarto-dev/quarto-emacs,An emacs mode for quarto: https://quarto.org,97,10,7
 shinylive,https://github.com/quarto-ext/shinylive,Quarto extension to embed Shinylive for Python applications,73,2,10
-lightbox,https://github.com/quarto-ext/lightbox,Create lightbox treatments for images in your HTML documents.,60,3,7
+lightbox,https://github.com/quarto-ext/lightbox,Create lightbox treatments for images in your HTML documents.,60,4,7
 fontawesome,https://github.com/quarto-ext/fontawesome,Use Font Awesome icons in HTML and PDF documents.,59,7,3
 quarto-vim,https://github.com/quarto-dev/quarto-vim,Rmarkdown support for vim,51,11,4
 article-format-template,https://github.com/quarto-journals/article-format-template,Template for creating a new journal article format for Quarto ,41,8,8
@@ -18,7 +18,7 @@ elsevier,https://github.com/quarto-journals/elsevier,Quarto template for Elsevie
 pointer,https://github.com/quarto-ext/pointer,A very simple RevealJS plugin extension that adds support for switching the cursor to a 'pointer' style element while presenting.,19,4,1
 jss,https://github.com/quarto-journals/jss,Quarto template for the Journal of Statistical Software,17,3,3
 quarto-julia,https://github.com/quarto-dev/quarto-julia,Julia interface to quarto-cli,16,0,6
-latex-environment,https://github.com/quarto-ext/latex-environment,Quarto extension to output custom LaTeX environments.,16,3,3
+latex-environment,https://github.com/quarto-ext/latex-environment,Quarto extension to output custom LaTeX environments.,16,4,3
 typst-templates,https://github.com/quarto-ext/typst-templates,NA,15,0,0
 plos,https://github.com/quarto-journals/plos,Quarto template for Public Library of Science,13,2,11
 quarto-python,https://github.com/quarto-dev/quarto-python,Python interface to quarto-cli,12,0,0
