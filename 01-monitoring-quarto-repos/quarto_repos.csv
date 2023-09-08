@@ -1,7 +1,7 @@
 name,url,description,stars,forks,open_issues
-quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,2513,217,967
-quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,181,507,14
-quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,150,3,6
+quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,2515,217,967
+quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,181,510,17
+quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,152,4,6
 quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,146,32,28
 quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,115,8,84
 quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,111,17,36
@@ -26,8 +26,8 @@ attribution,https://github.com/quarto-ext/attribution,Display attribution text s
 netlify-plugin-quarto,https://github.com/quarto-dev/netlify-plugin-quarto,NA,10,1,5
 jasa,https://github.com/quarto-journals/jasa,Quarto template for the American Statistical Association Journals,10,8,1
 quarto-sublime,https://github.com/quarto-dev/quarto-sublime,NA,9,1,1
+jupyterlab-quarto,https://github.com/quarto-dev/jupyterlab-quarto,Quarto JupyterLab Extension,8,1,0
 quarto-shortcodes,https://github.com/quarto-dev/quarto-shortcodes,NA,8,2,2
-jupyterlab-quarto,https://github.com/quarto-dev/jupyterlab-quarto,Quarto JupyterLab Extension,7,1,0
 quarto-examples,https://github.com/quarto-dev/quarto-examples,A repository of self-contained quarto examples,7,0,1
 acm,https://github.com/quarto-journals/acm,Quarto template for the Association of Computing Machinery,6,6,18
 fancy-text,https://github.com/quarto-ext/fancy-text,Output nicely formatted versions of fancy strings such as LaTeX and BibTeX in multiple formats.,3,1,0
