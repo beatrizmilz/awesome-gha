@@ -1,10 +1,10 @@
 name,url,description,stars,forks,open_issues
-quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,2592,223,1022
-quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,187,531,16
+quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,2595,222,1021
+quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,187,532,16
 quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,158,4,6
 quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,152,35,28
 quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,126,12,94
-quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,112,17,41
+quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,112,17,40
 quarto-vscode,https://github.com/quarto-dev/quarto-vscode,Quarto extension for VS Code,110,12,0
 quarto-emacs,https://github.com/quarto-dev/quarto-emacs,An emacs mode for quarto: https://quarto.org,100,10,9
 shinylive,https://github.com/quarto-ext/shinylive,Quarto extension to embed Shinylive for Python applications,93,4,11
@@ -19,7 +19,7 @@ pointer,https://github.com/quarto-ext/pointer,A very simple RevealJS plugin exte
 latex-environment,https://github.com/quarto-ext/latex-environment,Quarto extension to output custom LaTeX environments.,18,4,3
 jss,https://github.com/quarto-journals/jss,Quarto template for the Journal of Statistical Software,18,4,3
 quarto-julia,https://github.com/quarto-dev/quarto-julia,Julia interface to quarto-cli,16,0,6
-typst-templates,https://github.com/quarto-ext/typst-templates,NA,16,0,0
+typst-templates,https://github.com/quarto-ext/typst-templates,NA,16,0,1
 quarto-python,https://github.com/quarto-dev/quarto-python,Python interface to quarto-cli,13,0,1
 attribution,https://github.com/quarto-ext/attribution,Display attribution text sideways along the right edge of Revealjs slides.,12,0,3
 plos,https://github.com/quarto-journals/plos,Quarto template for Public Library of Science,12,2,10
