@@ -1,18 +1,18 @@
 name,url,description,stars,forks,open_issues
-quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,2655,227,1068
-quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,196,548,20
-quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,166,6,9
+quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,2659,227,1070
+quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,196,548,18
+quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,167,6,9
 quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,156,37,28
-quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,144,14,105
+quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,146,14,105
 quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,115,16,32
 quarto-vscode,https://github.com/quarto-dev/quarto-vscode,Quarto extension for VS Code,110,12,0
 quarto-emacs,https://github.com/quarto-dev/quarto-emacs,An emacs mode for quarto: https://quarto.org,103,10,9
 shinylive,https://github.com/quarto-ext/shinylive,Quarto extension to embed Shinylive for Python applications,99,5,14
-fontawesome,https://github.com/quarto-ext/fontawesome,Use Font Awesome icons in HTML and PDF documents.,68,8,8
+fontawesome,https://github.com/quarto-ext/fontawesome,Use Font Awesome icons in HTML and PDF documents.,68,8,6
 lightbox,https://github.com/quarto-ext/lightbox,Create lightbox treatments for images in your HTML documents.,64,4,7
 quarto-vim,https://github.com/quarto-dev/quarto-vim,Rmarkdown support for vim,54,11,4
 article-format-template,https://github.com/quarto-journals/article-format-template,Template for creating a new journal article format for Quarto ,47,8,8
-include-code-files,https://github.com/quarto-ext/include-code-files,NA,32,5,8
+include-code-files,https://github.com/quarto-ext/include-code-files,NA,33,5,8
 elsevier,https://github.com/quarto-journals/elsevier,Quarto template for Elsevier Journals,32,14,10
 quarto-gallery,https://github.com/quarto-dev/quarto-gallery,NA,29,19,0
 pointer,https://github.com/quarto-ext/pointer,A very simple RevealJS plugin extension that adds support for switching the cursor to a 'pointer' style element while presenting.,21,5,1
@@ -40,7 +40,7 @@ example-project-quarto-netlify-plugin,https://github.com/quarto-dev/example-proj
 holder,https://github.com/quarto-ext/holder,NA,2,0,0
 agu,https://github.com/quarto-journals/agu,Quarto template for the American Geophysical Union,1,0,0
 quarto-repo-template,https://github.com/quarto-dev/quarto-repo-template,"Repository template with readme styling, issue templates, etc",0,0,0
-Quarto-Pub,https://github.com/quarto-dev/Quarto-Pub,Quarto Pub,0,0,2
+Quarto-Pub,https://github.com/quarto-dev/Quarto-Pub,Quarto Pub,0,0,3
 quarto-pub-subdomain-site,https://github.com/quarto-dev/quarto-pub-subdomain-site,The [subdomain].quarto.pub website,0,0,0
 external-asg017-unofficial-observablehq-compiler,https://github.com/quarto-dev/external-asg017-unofficial-observablehq-compiler,A fork of @asg017's unofficial compiler for Observable notebook syntax,0,1,0
 external-kpdecker-jsdiff,https://github.com/quarto-dev/external-kpdecker-jsdiff,A javascript text differencing implementation.,0,0,0
