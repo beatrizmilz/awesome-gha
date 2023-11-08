@@ -1,15 +1,15 @@
 name,url,description,stars,forks,open_issues
-quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,2659,227,1070
-quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,196,548,18
+quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,2661,228,1071
+quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,196,550,18
 quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,167,6,9
 quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,156,37,28
-quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,146,14,105
+quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,147,14,105
 quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,115,16,32
 quarto-vscode,https://github.com/quarto-dev/quarto-vscode,Quarto extension for VS Code,110,12,0
 quarto-emacs,https://github.com/quarto-dev/quarto-emacs,An emacs mode for quarto: https://quarto.org,103,10,9
-shinylive,https://github.com/quarto-ext/shinylive,Quarto extension to embed Shinylive for Python applications,99,5,14
+shinylive,https://github.com/quarto-ext/shinylive,Quarto extension to embed Shinylive for Python applications,99,5,15
 fontawesome,https://github.com/quarto-ext/fontawesome,Use Font Awesome icons in HTML and PDF documents.,68,8,6
-lightbox,https://github.com/quarto-ext/lightbox,Create lightbox treatments for images in your HTML documents.,64,4,7
+lightbox,https://github.com/quarto-ext/lightbox,Create lightbox treatments for images in your HTML documents.,65,4,7
 quarto-vim,https://github.com/quarto-dev/quarto-vim,Rmarkdown support for vim,54,11,4
 article-format-template,https://github.com/quarto-journals/article-format-template,Template for creating a new journal article format for Quarto ,47,8,8
 include-code-files,https://github.com/quarto-ext/include-code-files,NA,33,5,8
@@ -32,8 +32,8 @@ quarto-examples,https://github.com/quarto-dev/quarto-examples,A repository of se
 acm,https://github.com/quarto-journals/acm,Quarto template for the Association of Computing Machinery,7,8,18
 manuscript-template-rstudio,https://github.com/quarto-ext/manuscript-template-rstudio,NA,4,6,1
 fancy-text,https://github.com/quarto-ext/fancy-text,Output nicely formatted versions of fancy strings such as LaTeX and BibTeX in multiple formats.,4,1,0
+acs,https://github.com/quarto-journals/acs,Quarto template for the American Chemical Society,4,2,1
 biophysical-journal,https://github.com/quarto-journals/biophysical-journal,Quarto template for Biophysical journal,3,1,0
-acs,https://github.com/quarto-journals/acs,Quarto template for the American Chemical Society,3,2,1
 quarto-release-bundles,https://github.com/quarto-dev/quarto-release-bundles,Chocolatey package for Quarto,2,0,2
 gridtables,https://github.com/quarto-dev/gridtables,Haskell parser for reStructuredText-style grid tables.,2,0,5
 example-project-quarto-netlify-plugin,https://github.com/quarto-dev/example-project-quarto-netlify-plugin,A minimal Quarto project using Quarto's Netlify plugin,2,0,0
@@ -52,6 +52,6 @@ vscode-mermaid-syntax-highlight,https://github.com/quarto-dev/vscode-mermaid-syn
 package_control_channel,https://github.com/quarto-dev/package_control_channel,Default channel file for Package Control. Follow the directions at:,0,0,0
 vscode-markdown-tm-grammar,https://github.com/quarto-dev/vscode-markdown-tm-grammar,VS Code built-in markdown extension's Textmate grammar,0,0,0
 manuscript-template-jupyter,https://github.com/quarto-ext/manuscript-template-jupyter,NA,0,0,0
-manuscript-template-vscode,https://github.com/quarto-ext/manuscript-template-vscode,NA,0,0,0
+manuscript-template-vscode,https://github.com/quarto-ext/manuscript-template-vscode,NA,0,1,0
 .github,https://github.com/quarto-ext/.github,Organization profile README source,0,0,0
 .github,https://github.com/quarto-journals/.github,NA,0,1,1
