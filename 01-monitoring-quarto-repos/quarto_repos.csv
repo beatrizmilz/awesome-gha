@@ -1,9 +1,9 @@
 name,url,description,stars,forks,open_issues
-quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,2667,229,1070
-quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,196,552,19
+quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,2670,229,1073
+quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,197,551,19
 quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,167,6,8
 quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,156,37,28
-quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,153,14,105
+quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,154,14,105
 quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,115,16,32
 quarto-vscode,https://github.com/quarto-dev/quarto-vscode,Quarto extension for VS Code,111,12,0
 quarto-emacs,https://github.com/quarto-dev/quarto-emacs,An emacs mode for quarto: https://quarto.org,103,10,9
@@ -11,10 +11,10 @@ shinylive,https://github.com/quarto-ext/shinylive,Quarto extension to embed Shin
 fontawesome,https://github.com/quarto-ext/fontawesome,Use Font Awesome icons in HTML and PDF documents.,68,8,6
 lightbox,https://github.com/quarto-ext/lightbox,Create lightbox treatments for images in your HTML documents.,67,4,7
 quarto-vim,https://github.com/quarto-dev/quarto-vim,Rmarkdown support for vim,54,11,4
-article-format-template,https://github.com/quarto-journals/article-format-template,Template for creating a new journal article format for Quarto ,47,8,8
+article-format-template,https://github.com/quarto-journals/article-format-template,Template for creating a new journal article format for Quarto ,48,8,8
 include-code-files,https://github.com/quarto-ext/include-code-files,NA,33,5,8
 elsevier,https://github.com/quarto-journals/elsevier,Quarto template for Elsevier Journals,33,14,10
-quarto-gallery,https://github.com/quarto-dev/quarto-gallery,NA,29,19,0
+quarto-gallery,https://github.com/quarto-dev/quarto-gallery,NA,30,19,0
 pointer,https://github.com/quarto-ext/pointer,A very simple RevealJS plugin extension that adds support for switching the cursor to a 'pointer' style element while presenting.,21,5,1
 latex-environment,https://github.com/quarto-ext/latex-environment,Quarto extension to output custom LaTeX environments.,20,4,6
 jss,https://github.com/quarto-journals/jss,Quarto template for the Journal of Statistical Software,19,4,3
@@ -24,11 +24,11 @@ quarto-python,https://github.com/quarto-dev/quarto-python,Python interface to qu
 attribution,https://github.com/quarto-ext/attribution,Display attribution text sideways along the right edge of Revealjs slides.,12,0,3
 plos,https://github.com/quarto-journals/plos,Quarto template for Public Library of Science,12,2,10
 jasa,https://github.com/quarto-journals/jasa,Quarto template for the American Statistical Association Journals,11,8,1
+jupyterlab-quarto,https://github.com/quarto-dev/jupyterlab-quarto,Quarto JupyterLab Extension,10,1,0
 netlify-plugin-quarto,https://github.com/quarto-dev/netlify-plugin-quarto,NA,10,1,5
-jupyterlab-quarto,https://github.com/quarto-dev/jupyterlab-quarto,Quarto JupyterLab Extension,9,1,0
 quarto-sublime,https://github.com/quarto-dev/quarto-sublime,NA,9,2,2
+quarto-examples,https://github.com/quarto-dev/quarto-examples,A repository of self-contained quarto examples,8,1,1
 quarto-shortcodes,https://github.com/quarto-dev/quarto-shortcodes,NA,8,2,2
-quarto-examples,https://github.com/quarto-dev/quarto-examples,A repository of self-contained quarto examples,7,1,1
 acm,https://github.com/quarto-journals/acm,Quarto template for the Association of Computing Machinery,7,8,18
 manuscript-template-rstudio,https://github.com/quarto-ext/manuscript-template-rstudio,NA,4,6,1
 fancy-text,https://github.com/quarto-ext/fancy-text,Output nicely formatted versions of fancy strings such as LaTeX and BibTeX in multiple formats.,4,1,0
@@ -38,10 +38,11 @@ quarto-release-bundles,https://github.com/quarto-dev/quarto-release-bundles,Choc
 gridtables,https://github.com/quarto-dev/gridtables,Haskell parser for reStructuredText-style grid tables.,2,0,5
 example-project-quarto-netlify-plugin,https://github.com/quarto-dev/example-project-quarto-netlify-plugin,A minimal Quarto project using Quarto's Netlify plugin,2,0,0
 holder,https://github.com/quarto-ext/holder,NA,2,0,0
+vscode-markdown-tm-grammar,https://github.com/quarto-dev/vscode-markdown-tm-grammar,VS Code built-in markdown extension's Textmate grammar,1,0,0
+quarto-pub-subdomain-site,https://github.com/quarto-dev/quarto-pub-subdomain-site,The [subdomain].quarto.pub website,1,0,0
+quarto-repo-template,https://github.com/quarto-dev/quarto-repo-template,"Repository template with readme styling, issue templates, etc",1,0,0
 agu,https://github.com/quarto-journals/agu,Quarto template for the American Geophysical Union,1,0,0
-quarto-repo-template,https://github.com/quarto-dev/quarto-repo-template,"Repository template with readme styling, issue templates, etc",0,0,0
 Quarto-Pub,https://github.com/quarto-dev/Quarto-Pub,Quarto Pub,0,0,3
-quarto-pub-subdomain-site,https://github.com/quarto-dev/quarto-pub-subdomain-site,The [subdomain].quarto.pub website,0,0,0
 external-asg017-unofficial-observablehq-compiler,https://github.com/quarto-dev/external-asg017-unofficial-observablehq-compiler,A fork of @asg017's unofficial compiler for Observable notebook syntax,0,1,0
 external-kpdecker-jsdiff,https://github.com/quarto-dev/external-kpdecker-jsdiff,A javascript text differencing implementation.,0,0,0
 external-observablehq-runtime,https://github.com/quarto-dev/external-observablehq-runtime,A fork of the Observable dataflow runtime.,0,0,0
@@ -50,7 +51,6 @@ external-d3-d3-require,https://github.com/quarto-dev/external-d3-d3-require,"A m
 external-observablehq-parser,https://github.com/quarto-dev/external-observablehq-parser,The Observable parser.,0,0,0
 vscode-mermaid-syntax-highlight,https://github.com/quarto-dev/vscode-mermaid-syntax-highlight,Markdown syntax support for the Mermaid charting language,0,0,0
 package_control_channel,https://github.com/quarto-dev/package_control_channel,Default channel file for Package Control. Follow the directions at:,0,0,0
-vscode-markdown-tm-grammar,https://github.com/quarto-dev/vscode-markdown-tm-grammar,VS Code built-in markdown extension's Textmate grammar,0,0,0
 manuscript-template-jupyter,https://github.com/quarto-ext/manuscript-template-jupyter,NA,0,0,0
 manuscript-template-vscode,https://github.com/quarto-ext/manuscript-template-vscode,NA,0,1,0
 .github,https://github.com/quarto-ext/.github,Organization profile README source,0,0,0
