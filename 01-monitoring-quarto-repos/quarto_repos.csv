@@ -1,10 +1,10 @@
 name,url,description,stars,forks,open_issues
-quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,2684,233,1082
-quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,198,553,22
+quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,2691,234,1082
+quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,198,554,23
 quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,174,6,5
-quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,160,37,29
-quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,157,14,108
-quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,115,17,32
+quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,162,37,28
+quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,159,14,107
+quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,115,17,33
 quarto-vscode,https://github.com/quarto-dev/quarto-vscode,Quarto extension for VS Code,111,12,0
 quarto-emacs,https://github.com/quarto-dev/quarto-emacs,An emacs mode for quarto: https://quarto.org,104,10,9
 shinylive,https://github.com/quarto-ext/shinylive,Quarto extension to embed Shinylive for Python applications,99,5,16
@@ -18,7 +18,7 @@ quarto-gallery,https://github.com/quarto-dev/quarto-gallery,NA,30,20,0
 pointer,https://github.com/quarto-ext/pointer,A very simple RevealJS plugin extension that adds support for switching the cursor to a 'pointer' style element while presenting.,21,5,1
 latex-environment,https://github.com/quarto-ext/latex-environment,Quarto extension to output custom LaTeX environments.,20,4,6
 jss,https://github.com/quarto-journals/jss,Quarto template for the Journal of Statistical Software,19,4,3
-typst-templates,https://github.com/quarto-ext/typst-templates,NA,17,0,2
+typst-templates,https://github.com/quarto-ext/typst-templates,NA,18,0,2
 quarto-julia,https://github.com/quarto-dev/quarto-julia,Julia interface to quarto-cli,16,0,6
 quarto-python,https://github.com/quarto-dev/quarto-python,Python interface to quarto-cli,13,0,1
 attribution,https://github.com/quarto-ext/attribution,Display attribution text sideways along the right edge of Revealjs slides.,12,0,3
