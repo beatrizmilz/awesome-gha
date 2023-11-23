@@ -1,18 +1,18 @@
 name,url,description,stars,forks,open_issues
-quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,2698,234,1086
-quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,198,555,23
-quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,174,6,5
-quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,163,36,28
+quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,2705,234,1080
+quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,198,555,22
+quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,175,6,5
+quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,164,36,28
 quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,161,14,107
 quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,115,17,33
 quarto-vscode,https://github.com/quarto-dev/quarto-vscode,Quarto extension for VS Code,111,12,0
-quarto-emacs,https://github.com/quarto-dev/quarto-emacs,An emacs mode for quarto: https://quarto.org,105,10,9
-shinylive,https://github.com/quarto-ext/shinylive,Quarto extension to embed Shinylive for Python applications,99,5,16
+quarto-emacs,https://github.com/quarto-dev/quarto-emacs,An emacs mode for quarto: https://quarto.org,106,10,9
+shinylive,https://github.com/quarto-ext/shinylive,Quarto extension to embed Shinylive for Python applications,99,5,18
 lightbox,https://github.com/quarto-ext/lightbox,Create lightbox treatments for images in your HTML documents.,68,4,7
 fontawesome,https://github.com/quarto-ext/fontawesome,Use Font Awesome icons in HTML and PDF documents.,68,8,6
 quarto-vim,https://github.com/quarto-dev/quarto-vim,Rmarkdown support for vim,54,11,4
 article-format-template,https://github.com/quarto-journals/article-format-template,Template for creating a new journal article format for Quarto ,49,8,8
-elsevier,https://github.com/quarto-journals/elsevier,Quarto template for Elsevier Journals,34,14,10
+elsevier,https://github.com/quarto-journals/elsevier,Quarto template for Elsevier Journals,34,14,11
 include-code-files,https://github.com/quarto-ext/include-code-files,NA,33,5,8
 quarto-gallery,https://github.com/quarto-dev/quarto-gallery,NA,30,20,0
 pointer,https://github.com/quarto-ext/pointer,A very simple RevealJS plugin extension that adds support for switching the cursor to a 'pointer' style element while presenting.,21,5,1
@@ -36,7 +36,7 @@ acs,https://github.com/quarto-journals/acs,Quarto template for the American Chem
 biophysical-journal,https://github.com/quarto-journals/biophysical-journal,Quarto template for Biophysical journal,3,1,0
 quarto-release-bundles,https://github.com/quarto-dev/quarto-release-bundles,Chocolatey package for Quarto,2,0,2
 gridtables,https://github.com/quarto-dev/gridtables,Haskell parser for reStructuredText-style grid tables.,2,0,5
-example-project-quarto-netlify-plugin,https://github.com/quarto-dev/example-project-quarto-netlify-plugin,A minimal Quarto project using Quarto's Netlify plugin,2,0,0
+example-project-quarto-netlify-plugin,https://github.com/quarto-dev/example-project-quarto-netlify-plugin,A minimal Quarto project using Quarto's Netlify plugin,2,1,0
 holder,https://github.com/quarto-ext/holder,NA,2,0,0
 vscode-markdown-tm-grammar,https://github.com/quarto-dev/vscode-markdown-tm-grammar,VS Code built-in markdown extension's Textmate grammar,1,0,0
 quarto-pub-subdomain-site,https://github.com/quarto-dev/quarto-pub-subdomain-site,The [subdomain].quarto.pub website,1,0,0
